@@ -33,5 +33,3 @@ if __name__ == "__main__":
     best_path, best_cost = hill_climbing_tsp(graph)
     print("Best Path Found:", best_path)
     print("Minimum Cost:", best_cost)
-
-OUTPUT:
