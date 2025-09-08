@@ -30,4 +30,3 @@ graph = {
 print("Task 1: Implementation of Graph search algorithms (Breadth First Search and Depth First Search)\n")
 bfs(graph, 'A')
 dfs(graph, 'A')
-OUTPUT:
